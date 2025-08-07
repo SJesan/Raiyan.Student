@@ -1,0 +1,60 @@
+# 🏠 HTML Homework - Day 2
+
+## ✅ Completed Topics:
+- HTML Colors
+- HTML CSS (Inline & Internal)
+- HTML Links
+
+## 🧠 Today’s Practice Tasks:
+
+### 1. Personal Profile Webpage
+Create a full HTML page that includes:
+- A `<title>`: `My Profile`
+- `<h1>`: Your Name (center it using CSS)
+- A paragraph about yourself
+  - Style the text color using `style` attribute
+- Add a **link** to your favorite YouTube channel
+  - Opens in a new tab (`target="_blank"`)
+- Use formatting tags like `<b>`, `<i>`, `<u>`, `<mark>` inside the paragraph
+- Add a horizontal line `<hr>` between sections
+- Add one HTML comment in the code
+
+---
+
+### 2. Color & Text Style Showcase
+Create a new HTML file that:
+- Has 3 paragraphs, each with different text colors:
+  - Use one named color (e.g., `red`)
+  - One HEX color (e.g., `#00ff00`)
+  - One RGB color (e.g., `rgb(0,0,255)`)
+- Use inline CSS (`style`) to:
+  - Change font size (e.g., `20px`)
+  - Make one paragraph bold and another italic
+- Use a heading styled with:
+  - Background color
+  - White text color
+
+---
+
+### 3. HTML + Internal CSS Practice
+- Create a webpage titled `CSS Practice`
+- Use internal CSS with `<style>` tag inside `<head>`
+- Style all `<h1>` elements:
+  - Color: Purple
+  - Text-align: Center
+- Style all `<p>` elements:
+  - Font size: `18px`
+  - Text color: Blue
+  - Background color: Light gray (`#f0f0f0`)
+- Add a styled link:
+  - No underline (`text-decoration: none`)
+  - Green color on hover (`:hover`)
+
+---
+
+## 📌 Submission Instructions:
+- File Names: `profile.html`, `colors.html`, `style-practice.html`
+
+---
+
+### 👏 Keep up the good work!
